@@ -1,0 +1,1 @@
+# SQLite-is-great-for-R-and-Shiny.-The-dbmisc-package-may-help-a-bit
